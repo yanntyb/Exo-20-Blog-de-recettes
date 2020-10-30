@@ -1,0 +1,45 @@
+.navigation {
+    background-color: coral;
+}
+
+.navigation ul li {
+    display: inline;
+    border-radius: 25px;
+    margin-right: 200px;
+    margin-top: 10px;
+}
+
+.navigation a{
+    font-size: 40px;
+    color: wheat;
+}
+
+body {
+    background-color: darkgrey;
+}
+
+.description {
+    background-color: wheat;
+}
+
+table {
+    background-color: azure;
+}
+
+h1,h2 {
+    color: slateblue;
+}
+
+.etape, .materiel{
+    background-color: azure;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
